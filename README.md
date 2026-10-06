@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
