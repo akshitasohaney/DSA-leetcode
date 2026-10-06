@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
