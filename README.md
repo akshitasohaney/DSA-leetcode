@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
