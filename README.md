@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0443-string-compression) |
 ## Queue
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
