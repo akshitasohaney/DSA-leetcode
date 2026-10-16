@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -142,8 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
