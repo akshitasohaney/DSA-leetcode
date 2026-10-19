@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Queue
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Manacher
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
