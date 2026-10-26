@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0493-reverse-pairs) |
+| [0645-set-mismatch](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
