@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0344-reverse-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Timsort
