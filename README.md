@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
