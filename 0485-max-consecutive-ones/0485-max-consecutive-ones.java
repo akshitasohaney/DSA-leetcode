@@ -8,13 +8,15 @@ class Solution {
                 count++;
             }
             else{
-                maxcount=Math.max(maxcount,count);
+                
                 count=0;
             }
+            maxcount=Math.max(maxcount,count);
         }
-        if(maxcount>count)
+        // if(maxcount>count)
+        // return maxcount;
+        // else return count;
         return maxcount;
-        else return count;
    
     }
 }
