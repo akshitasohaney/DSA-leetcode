@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
