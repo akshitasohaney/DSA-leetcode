@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2865-beautiful-towers-i](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2865-beautiful-towers-i) |
 ## Matrix
 |  |
 | ------- |
@@ -205,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [2865-beautiful-towers-i](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2865-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [2865-beautiful-towers-i](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2865-beautiful-towers-i) |
 ## Sliding Window
 |  |
 | ------- |
