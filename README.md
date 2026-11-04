@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0443-string-compression) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Manacher
 |  |
 | ------- |
