@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0076-minimum-window-substring) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0018-4sum) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
