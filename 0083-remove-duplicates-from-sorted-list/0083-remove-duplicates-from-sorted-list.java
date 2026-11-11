@@ -22,7 +22,7 @@ class Solution {
             else{
                 i.next=j;
                 i=j;
-                j=j.next;
+                // j=j.next;
             }
         }
         i.next=null;
