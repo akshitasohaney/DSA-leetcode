@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0443-string-compression) |
@@ -292,8 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshitasohaney/DSA-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshitasohaney/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
